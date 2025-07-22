@@ -41,10 +41,8 @@ pip install -r requirements.txt
 ### 4 Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+    streamlit run streamlit_app.py
    ```
 
 
-
-**Output:**
 
